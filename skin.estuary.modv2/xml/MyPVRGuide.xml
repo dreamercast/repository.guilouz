@@ -352,8 +352,8 @@
 					<height>300</height>
 					<control type="videowindow">
 						<left>30</left>
-						<width>242</width>
-						<height>202</height>
+						<width>363</width>
+						<height>303</height>
 						<visible>Player.HasVideo</visible>
 						<visible>!Window.IsVisible(DialogPVRInfo.xml)</visible>
 					</control>
